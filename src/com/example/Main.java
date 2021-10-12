@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Hello from Git!");
 
         var person = new Person();
+        System.out.println(person);
 
     }
 }
