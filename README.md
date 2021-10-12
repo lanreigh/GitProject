@@ -1,1 +1,2 @@
 # GitProject
+Experimenting with IntelliJ
